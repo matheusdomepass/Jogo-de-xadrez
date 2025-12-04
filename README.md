@@ -29,6 +29,6 @@ Um jogo de xadrez desenvolvido em C#, como projeto pessoal para praticar lógica
 
 **Desenvolvido por:** Matheus Passatuto
 
-**Contato: **GitHub: https://github.com/matheusdomepass Contato: matheus.pass@hotmail.com
+**Contato:** GitHub: https://github.com/matheusdomepass Contato: matheus.pass@hotmail.com
 
 Sugestões e melhorias são bem-vindas! Fique à vontade para abrir issues ou enviar pull requests.
